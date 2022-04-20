@@ -1,0 +1,10 @@
+{
+    "name": "My Chat Room",
+    "host": "http://localhost",
+    "assetsBaseUrl": "http://127.0.0.1:3000",
+    "port": 3000,
+    "DataBase_Name": "chat-db",
+    "DB_URI":"mongodb://localhost:27017/chat-db",
+    "jwtPrivateKey": "ert33",
+    "authorization": true
+  }
